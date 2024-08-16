@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **smart contracts, DeFi**
 
-💬 Ask me about **Node.js, React, TS... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, TS... or anything [here](https://github.com/Durgeshityar/Durgeshityar/issues)**
 
 ⚡ Naruto Uzamaki : **“Hard work is worthless for those that don’t believe in themselves.”**
 
